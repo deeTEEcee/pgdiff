@@ -1,0 +1,3 @@
+tabulate
+fabulous-color
+psycopg2
